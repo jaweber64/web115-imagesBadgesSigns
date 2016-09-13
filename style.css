@@ -1,0 +1,22 @@
+/* CSS Document */
+
+.w3-container,
+.constrain {
+    max-width: 1060px;
+    margin: 5px auto;
+}
+
+body {font-family: "Comic Sans MS";
+    background-image: url("lgrey005.jpg"); }
+
+h1,h2,h3 {font-family: "Comic Sans MS";
+    font-weight: bold;
+    color: midnightblue; }
+
+img {width: 100%;
+    align: center;
+    margin: 25px auto;
+    border-color: midnightblue;
+    height: auto; }
+
+.div1 {text-align: center;}
